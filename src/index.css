@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button > svg {
+  margin-right: 5px;
+}
+
+/* @layer components {
+  .classe {
+    @apply propriedades...
+  }
+} */
